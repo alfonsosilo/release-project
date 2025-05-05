@@ -1,5 +1,4 @@
 
-import './App.css'
 import VersionDisplay from "./VersionDisplay"
 
 function App() {
