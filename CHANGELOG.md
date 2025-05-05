@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/alfonsosilo/release-project/compare/v1.3.0...v1.4.0) (2025-05-05)
+
+
+### Features
+
+* Cambiar los tipos para las releases ([b68c6a2](https://github.com/alfonsosilo/release-project/commit/b68c6a202c9dcbeb70daa53933eae80862262741))
+
 # [1.3.0](https://github.com/alfonsosilo/release-project/compare/v1.2.1...v1.3.0) (2025-05-05)
 
 
