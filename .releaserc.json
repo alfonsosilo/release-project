@@ -62,8 +62,7 @@
           { "title": "Refactors", "commits": [{ "filter": "type === 'refactor'" }] },
           { "title": "Tests", "commits": [{ "filter": "type === 'test'" }] },
           { "title": "Style", "commits": [{ "filter": "type === 'style'" }] },
-          { "title": "Other Changes", "commits": [{ "filter": "!type" }] },
-          { "title": "Hidden Changes", "commits": [{ "filter": "type !== 'hide'" }] }
+          { "title": "Other Changes", "commits": [{ "filter": "!type && type !== 'hide'" }] }
         ]
       }
     },
