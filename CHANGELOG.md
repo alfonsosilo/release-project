@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/alfonsosilo/release-project/compare/v1.4.0...v1.4.1) (2025-05-05)
+
+
+### Bug Fixes
+
+* Eliminar comentario sin uso ([3623181](https://github.com/alfonsosilo/release-project/commit/3623181d52a48c43528160413de470ca14a6fd4e))
+
 # [1.4.0](https://github.com/alfonsosilo/release-project/compare/v1.3.0...v1.4.0) (2025-05-05)
 
 
