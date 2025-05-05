@@ -27,7 +27,7 @@ function VersionDisplay() {
   }, []);
 
   if (!version) {
-    return null; // No mostrar nada mientras se carga
+    return null;
   }
 
   return <span>v{version}</span>;
