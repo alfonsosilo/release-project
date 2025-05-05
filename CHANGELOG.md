@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/alfonsosilo/release-project/compare/v1.2.1...v1.3.0) (2025-05-05)
+
+
+### Features
+
+* **Inicio:** Añadir nuevo botón ([631d9c5](https://github.com/alfonsosilo/release-project/commit/631d9c584efd8733a5ef8bf7e277068db74a6eee))
+
 ## [1.2.1](https://github.com/alfonsosilo/release-project/compare/v1.2.0...v1.2.1) (2025-05-05)
 
 
