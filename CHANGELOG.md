@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/alfonsosilo/release-project/compare/v1.0.0...v1.1.0) (2025-05-05)
+
+
+### Features
+
+* **release:** Cambiar configuracion de semantic-release para que admita cambios de estilo ([117b0db](https://github.com/alfonsosilo/release-project/commit/117b0dba0f1faaac0a32924275af0a6b6f75ced5))
+
 # 1.0.0 (2025-05-05)
 
 
