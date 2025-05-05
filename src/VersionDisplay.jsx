@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 
 /**
- * Componente que muestra la versión de la aplicación
  * Obtiene la versión desde la variable de entorno o mediante fetch al package.json
  */
 function VersionDisplay() {
