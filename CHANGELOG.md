@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/alfonsosilo/release-project/compare/v1.2.0...v1.2.1) (2025-05-05)
+
+
+### Bug Fixes
+
+* **version:** Mostrar de forma correcta la version del proyecto ([24ebdea](https://github.com/alfonsosilo/release-project/commit/24ebdea899d75e20bd1d307a88083bd3a181b766))
+
 # [1.2.0](https://github.com/alfonsosilo/release-project/compare/v1.1.0...v1.2.0) (2025-05-05)
 
 
