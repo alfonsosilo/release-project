@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import './VersionDisplay.css';
 
 /**
  * Componente que muestra la versión de la aplicación
