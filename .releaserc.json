@@ -49,6 +49,24 @@
       ]
     },
     "@semantic-release/release-notes-generator",
+    {
+      "writerOpts": {
+        "commitGroups": [
+          { "title": "Features", "commits": [{ "filter": "type === 'feat'" }] },
+          { "title": "Bug Fixes", "commits": [{ "filter": "type === 'fix'" }] },
+          { "title": "Performance Improvements", "commits": [{ "filter": "type === 'perf'" }] },
+          { "title": "Reverts", "commits": [{ "filter": "type === 'revert'" }] },
+          { "title": "Build System", "commits": [{ "filter": "type === 'build'" }] },
+          { "title": "Continuous Integration", "commits": [{ "filter": "type === 'ci'" }] },
+          { "title": "Chores", "commits": [{ "filter": "type === 'chore'" }] },
+          { "title": "Refactors", "commits": [{ "filter": "type === 'refactor'" }] },
+          { "title": "Tests", "commits": [{ "filter": "type === 'test'" }] },
+          { "title": "Style", "commits": [{ "filter": "type === 'style'" }] },
+          { "title": "Other Changes", "commits": [{ "filter": "!type" }] },
+          { "title": "Hidden Changes", "commits": [{ "filter": "type !== 'hide'" }] }
+        ]
+      }
+    },
     "@semantic-release/changelog",
     "@semantic-release/npm",
     [
