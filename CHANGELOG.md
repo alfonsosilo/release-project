@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/alfonsosilo/release-project/compare/v1.1.0...v1.2.0) (2025-05-05)
+
+
+### Features
+
+* **general:** Mostrar version de la aplicacion en la pagina de inicio ([cdebbb4](https://github.com/alfonsosilo/release-project/commit/cdebbb4b05246712d0029317e3bfbb841c164912))
+* **release:** Instalar y configurar semantic release para que muestre el cambio de version en el package.json ([90c310e](https://github.com/alfonsosilo/release-project/commit/90c310e34e2671df2a776d014e22e283b57a9ec0))
+
 # [1.1.0](https://github.com/alfonsosilo/release-project/compare/v1.0.0...v1.1.0) (2025-05-05)
 
 
